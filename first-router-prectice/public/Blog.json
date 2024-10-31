@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Runner Bullet",
+        "brand": "Runner",
+        "price": 80000,
+        "company": "Runner Automobiles Ltd.",
+        "type": "Standard",
+        "features": [
+            "Fuel-efficient engine",
+            "Durable build",
+            "Commuter-friendly"
+        ],
+        "color": "Red",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/NjxQyXD/Runner-Bullet.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Yamaha R15 V3",
+        "brand": "Yamaha",
+        "price": 485000,
+        "company": "Yamaha Motor Co., Ltd.",
+        "type": "Sports",
+        "features": [
+            "Liquid-cooled engine",
+            "Sporty design",
+            "Variable valve actuation (VVA)"
+        ],
+        "color": "Blue",
+        "country": "Japan",
+        "image": "https://i.ibb.co.com/2Fsv790/Yamaha-R15-V3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bajaj Pulsar 150",
+        "brand": "Bajaj",
+        "price": 180000,
+        "company": "Bajaj Auto Ltd.",
+        "type": "Sports",
+        "features": [
+            "High torque engine",
+            "Comfortable ride",
+            "Stylish design"
+        ],
+        "color": "Black",
+        "country": "India",
+        "image": "https://i.ibb.co.com/8rXxrQB/Bajaj-plusar-150.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Hero Splendor Plus",
+        "brand": "Hero",
+        "price": 95000,
+        "company": "Hero MotoCorp",
+        "type": "Standard",
+        "features": [
+            "Fuel-efficient",
+            "Long-lasting engine",
+            "Easy maintenance"
+        ],
+        "color": "red",
+        "country": "India",
+        "image": "https://i.ibb.co.com/M8jZkSg/Hero-Splendor-Plus.jpg"
+    },
+    {
+        "id": 5,
+        "name": "KTM Duke 125",
+        "brand": "KTM",
+        "price": 525000,
+        "company": "KTM AG",
+        "type": "Sports",
+        "features": [
+            "Fuel-injected engine",
+            "Aggressive styling",
+            "Lightweight build"
+        ],
+        "color": "Orange",
+        "country": "Austria",
+        "image": "https://i.ibb.co.com/FqsCVbf/KTM-Duke-125.jpg"
+    },
+    {
+        "id": 6,
+        "name": "TVS Apache RTR 160",
+        "brand": "TVS",
+        "price": 185000,
+        "company": "TVS Motor Company",
+        "type": "Sports",
+        "features": [
+            "High power engine",
+            "Sporty design",
+            "Advanced braking system"
+        ],
+        "color": "navy Blue",
+        "country": "India",
+        "image": "https://i.ibb.co.com/mhF3MhT/TVS-Apache-RTR-160.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Honda CB Hornet 160R",
+        "brand": "Honda",
+        "price": 200000,
+        "company": "Honda Motor Co.",
+        "type": "Sports",
+        "features": [
+            "Powerful engine",
+            "Good mileage",
+            "Comfortable seating"
+        ],
+        "color": "yellow",
+        "country": "Japan",
+        "image": "https://i.ibb.co.com/1MrmnPk/Honda-CB-Hornet-160-R.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Yamaha FZ-S V3",
+        "brand": "Yamaha",
+        "price": 235000,
+        "company": "Yamaha Motor Co., Ltd.",
+        "type": "Sports",
+        "features": [
+            "Fuel injection system",
+            "Sturdy build",
+            "Digital console"
+        ],
+        "color": "navy Blue",
+        "country": "Japan",
+        "image": "https://i.ibb.co.com/pKGB9hJ/Yamaha-FZ-S-V3.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Suzuki Gixxer SF",
+        "brand": "Suzuki",
+        "price": 220000,
+        "company": "Suzuki Motor Corporation",
+        "type": "Sports",
+        "features": [
+            "Stylish fairing",
+            "Powerful engine",
+            "Good handling"
+        ],
+        "color": "blue",
+        "country": "Japan",
+        "image": "https://i.ibb.co.com/kD3BLf2/Suzuki-Gixxer-SF.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Keeway RKS 150",
+        "brand": "Keeway",
+        "price": 145000,
+        "company": "Keeway Motor Bangladesh",
+        "type": "Standard",
+        "features": [
+            "Fuel-efficient",
+            "Affordable price",
+            "Durable build"
+        ],
+        "color": "white",
+        "country": "China",
+        "image": "https://i.ibb.co.com/syGMxFW/Keeway-RKS-150.jpg"
+    }
+]
